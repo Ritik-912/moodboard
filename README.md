@@ -132,7 +132,14 @@ When deploying (e.g. Render):
 
 ## 🌐 Demo
 
-**👉 [Live Demo Link](https://moodboard-ml5t.onrender.com/)**
+**👉 [Live Demo Link](https://moodboard-71wq.onrender.com/)**
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/bc54751c-be77-4e44-9c90-835cc2662941)
+
+![image](https://github.com/user-attachments/assets/82794b71-6d59-4ad9-9889-35f4a7059c55)
+
 
 ---
 
